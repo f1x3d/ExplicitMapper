@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitMapper", "ExplicitMapper\ExplicitMapper.csproj", "{2BD9853B-81D4-4C14-891A-F0A655A76BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD9853B-81D4-4C14-891A-F0A655A76BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD9853B-81D4-4C14-891A-F0A655A76BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD9853B-81D4-4C14-891A-F0A655A76BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD9853B-81D4-4C14-891A-F0A655A76BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD390E63-F880-419E-8A2D-65B25959DDE3}
+	EndGlobalSection
+EndGlobal
